@@ -1,0 +1,67 @@
+body {
+background: #ffdce6;
+}
+
+h1 {
+font-family: Arial, sans-serif;
+text-align: center;
+margin-top: 50px;
+color: rgb(112, 19, 47);
+}
+
+.hsegundo {
+font-family: Arial, sans-serif;
+text-align: center;
+color: rgb(171, 61, 94);
+}
+
+h2 {
+font-family: Arial, sans-serif;
+color: rgb(171, 61, 94);
+}
+
+h3 {
+font-family: Arial, sans-serif;
+color: rgb(112, 19, 47);
+}
+
+.hterceiro1 {
+font-family: Arial, sans-serif;
+color: rgb(112, 19, 47);
+text-align: center;
+}
+
+.hterceiro2 {
+font-family: Arial, sans-serif;
+color: rgb(171, 61, 94);
+}
+
+h4, p {
+font-family: Arial, sans-serif;
+}
+
+.pinfo {
+font-family: Arial, sans-serif;
+text-align: center;
+}
+
+figure {
+text-align: center;
+}
+
+footer {
+text-align: center;
+}
+
+button {
+background-color: rgb(255, 127, 148);
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 10px;
+cursor: pointer;
+}
+
+button:hover {
+background-color: rgb(255, 96, 122);
+}
